@@ -1,0 +1,57 @@
+{
+  "name": "SkyObservation",
+  "type": "object",
+  "properties": {
+    "observation_date": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Date and time of observation"
+    },
+    "latitude": {
+      "type": "number",
+      "description": "Observer latitude"
+    },
+    "longitude": {
+      "type": "number",
+      "description": "Observer longitude"
+    },
+    "object_name": {
+      "type": "string",
+      "description": "Name of observed celestial object"
+    },
+    "object_type": {
+      "type": "string",
+      "enum": [
+        "sun",
+        "moon",
+        "planet",
+        "star",
+        "constellation",
+        "satellite",
+        "deep_sky"
+      ],
+      "description": "Type of celestial object"
+    },
+    "azimuth": {
+      "type": "number",
+      "description": "Azimuth in degrees"
+    },
+    "altitude": {
+      "type": "number",
+      "description": "Altitude in degrees"
+    },
+    "notes": {
+      "type": "string",
+      "description": "Observation notes"
+    },
+    "weather_conditions": {
+      "type": "string",
+      "description": "Weather during observation"
+    }
+  },
+  "required": [
+    "observation_date",
+    "object_name",
+    "object_type"
+  ]
+}

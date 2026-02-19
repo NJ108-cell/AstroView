@@ -1,0 +1,55 @@
+{
+  "name": "BirthChart",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Person's name"
+    },
+    "birth_date": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Date and time of birth"
+    },
+    "birth_latitude": {
+      "type": "number",
+      "description": "Birth location latitude"
+    },
+    "birth_longitude": {
+      "type": "number",
+      "description": "Birth location longitude"
+    },
+    "birth_place": {
+      "type": "string",
+      "description": "Birth place name"
+    },
+    "ascendant_sign": {
+      "type": "string",
+      "description": "Rising sign/Lagna"
+    },
+    "moon_sign": {
+      "type": "string",
+      "description": "Rashi (Moon sign)"
+    },
+    "sun_sign": {
+      "type": "string",
+      "description": "Surya Rashi"
+    },
+    "nakshatra": {
+      "type": "string",
+      "description": "Birth Nakshatra"
+    },
+    "planetary_positions": {
+      "type": "object",
+      "description": "Positions of all planets at birth"
+    },
+    "chart_data": {
+      "type": "object",
+      "description": "Complete chart calculation data"
+    }
+  },
+  "required": [
+    "name",
+    "birth_date"
+  ]
+}
