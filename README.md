@@ -1,53 +1,55 @@
-<h2 align="left">Hi 👋, I'm Naman Jain</h2>
-<p align="left">
-BTech student • Developer • Greater Noida, India
-</p>
+<h1 align="center">R-based AI Celestial Tracking & Sky Mapping</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://skillicons.dev/icons?i=r" height="60" alt="r logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
 ###
 
-<img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
-
-### 
-
-<h3 align="left">AR-based AI Celestial Tracking & Sky Mapping</h3>
-
-<p align="left">
-An AR-powered AI system for real-time celestial tracking and sky mapping using geolocation.  
-It enables accurate visualization of stars, planets, and constellations through computer vision and interactive 3D rendering.  
-Built with Python, OpenCV, PyTorch, Unity 3D, and ARKit.
-</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Astronomy&label=&color=0B3D91&style=for-the-badge" height="25" alt="astronomy badge"  />
+  <img src="https://img.shields.io/static/v1?message=AI%20Tracking&label=&color=6A5ACD&style=for-the-badge" height="25" alt="ai tracking badge"  />
+  <img src="https://img.shields.io/static/v1?message=Sky%20Mapping&label=&color=1E90FF&style=for-the-badge" height="25" alt="sky mapping badge"  />
+  <img src="https://img.shields.io/static/v1?message=AR%20Visualization&label=&color=483D8B&style=for-the-badge" height="25" alt="ar visualization badge"  />
+  <img src="https://img.shields.io/static/v1?message=Geolocation&label=&color=2E8B57&style=for-the-badge" height="25" alt="geolocation badge"  />
 </div>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
-  </a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NJ108-cell&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=NJ108-cell&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NJ108-cell/NJ108-cell/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NJ108-cell/NJ108-cell/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NJ108-cell/NJ108-cell/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+[](https://github.com/NJ108-cell/AstroView#r-based-ai-celestial-tracking--sky-mapping)
+An R-powered AI system for real-time celestial tracking and sky mapping using geolocation. It enables accurate visualization of stars, planets, and constellations through statistical computing, computer vision, and interactive 3D rendering. Built with R, Python, OpenCV, PyTorch, Unity 3D, and ARKit.
